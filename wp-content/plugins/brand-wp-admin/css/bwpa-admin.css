@@ -1,0 +1,19 @@
+/* In a custom frame, the date picker can sometimes collapse. This fixes that. */
+#media-attachment-date-filters {
+	min-width: 200px;
+}
+
+#brandwpadmin_upload_logo_preview {
+	display: block;
+	width: 320px;
+	max-width: 100%;
+	height: auto;
+}
+
+#brandwpadmin_logo_width {
+	width: 100px;
+}
+
+#form-brandwpadmin-options p {
+	max-width: 50em;
+}
