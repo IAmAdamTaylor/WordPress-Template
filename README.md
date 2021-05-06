@@ -1,7 +1,7 @@
 # WordPress-Template
 My custom WordPress template
 
-This template works best when downloaded as a zip file and then copied to the project direcrory.
+This template works best when downloaded as a zip file and then copied to the project directory.
 
 The template is made to be renamed:
 
